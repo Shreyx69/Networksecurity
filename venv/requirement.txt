@@ -1,0 +1,6 @@
+#IN THIS FOLDER WE WILL GOING TO WRITE ALL THE LIBRARIES WHICH WE ARE GOING TO USE IN THIS PROJECT 
+python-dotenv
+pandas
+numpy
+pymongo(data ingestion)
+scikitlearn
